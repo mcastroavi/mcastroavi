@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I taught myself how to swim when I was 8 years old by jumping into a random lake in my native hometown.
       With zero experience about swimming and no adults around me, I decided to go from point a to point b using my hands and feet.
       I was afraid, but I moved my hands so hard and kicked the water many times to reach the other corner of the lake, my goal.
-      It was risky but I knew it was a fast way to learn swimming.    
+      It was risky but I knew it was a fast way of learning something.    
 
 <!---
 mcastroavi/mcastroavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
