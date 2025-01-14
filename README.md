@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mcastroavi , Mauricio 
-- 👀 I’m interested in music, netflix, games, ramen, beach, programming, electronic warfare, AF and taking care of family and friends. 
-- 🌱 I’m currently learning AI, and my fist step is Python programming. 
-- 💞️ I’m looking to collaborate on making this world better. 
+- 👀 I’m interested in ramen, beach, programming, electronic warfare, AF and taking care of family and friends. 
+- 🌱 I’m currently learning AI, and my fist step is Python programming. Update: Machine Learning and Python classes done. 
 - 📫 How to reach me, email or just say hi.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I taught myself how to swim when I was 8 years old by jumping into a random lake in my native hometown.
