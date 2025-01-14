@@ -7,8 +7,9 @@
       With zero experience about swimming and no adults around me, I decided to go from point a to point b using my hands and feet.
       I was afraid but I moved my hands so hard and kicked the water many times to reach the other corner of the lake. 
       A valuable lesson about commitment. Just get it done. 
-
-<!---
+- Extra: Numpy, Jupyter, SQL, C++  
+- DoD Secret Clearance
+- <!---
 mcastroavi/mcastroavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
