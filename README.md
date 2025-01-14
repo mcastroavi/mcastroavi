@@ -4,9 +4,9 @@
 - 📫 How to reach me, email or just say hi.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I taught myself how to swim when I was 8 years old by jumping into a random lake in my native hometown.
-      With zero experience about swimming and no adults around me, I decided to go from point a to point b using my hands and feet.
-      I was afraid but I moved my hands so hard and kicked the water many times to reach the other corner of the lake. 
-      A valuable lesson about commitment. Just get it done. 
+      With zero experience about swimming and no adults around me, I decided to go from point a to point b through the water.
+      I was afraid but I moved my hands so fast and kicked the water many times to get the other corner of the lake. 
+      A valuable lesson about commitment. Just diving in and getting it done. 
 - Extra: Numpy, Jupyter, SQL, C++  
 - DoD Secret Clearance
 - <!---
