@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcastroavi , Mauricio 
-- 👀 I’m interested in ramen, beach, programming, electronic warfare, AF and taking care of family and friends. 
+- 👀 I’m interested in ramen, beach, programming, electronic warfare, taking care of family and friends. 
 - 🌱 I’m currently learning AI, and my fist step is Python programming. Update: Machine Learning and Python classes done. 
 - 📫 How to reach me, email or just say hi.
 - 😄 Pronouns: He
@@ -9,6 +9,7 @@
       A valuable lesson about commitment. Just diving in and getting it done. 
 - Extra: Numpy, Jupyter, SQL, C++  
 - DoD Secret Clearance
+- Air Force Reservist - Port Dawg 
 - <!---
 mcastroavi/mcastroavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
