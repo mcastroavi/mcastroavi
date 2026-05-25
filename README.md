@@ -11,20 +11,6 @@ and taking care of the people I love. When I am not training models
 you can find me at the beach or enjoying a good bowl of ramen. 🍜🏖️
 
 ---
-
-## 🌱 My Learning Journey
-
-Started from zero — taught myself the fundamentals and never stopped.
-
-- ✅ Python Programming — done
-- ✅ Machine Learning — done
-- ✅ Data Acquisition, Modeling and Analysis — done
-- ✅ C++ — done
-- ✅ **M.S. Applied Artificial Intelligence** — Stevens Institute of
-  Technology, May 2026 🎓
-
----
-
 ## 🚀 Featured Projects
 
 ### 🧠 Seizure Prediction via ST-GNN
