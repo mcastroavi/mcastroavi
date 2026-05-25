@@ -50,7 +50,8 @@ on CHB-MIT EEG — **0.883 AUC**, **17.4 min mean lead time**, 24 subjects
 
 ## 🎓 Credentials
 
-- 🎓 M.S. Applied Artificial Intelligence — Stevens Institute of Technology, 2025
+- 🎓 M.S. Applied Artificial Intelligence — Stevens Institute of Technology, 2026
+- 🎓 B.S. Electrical and Computer Eng Tech — New Jersey Institute of Technology, 2022
 - 💼 Test Engineering Specialist — L3Harris Technologies
 - 🪖 Air Force Reservist — Port Dawg 🫡
 
