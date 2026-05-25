@@ -63,7 +63,7 @@ made it to the other side.
 
 Just say hi — always happy to connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Castro-blue)](https://linkedin.com/in/mcastroavi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Castro-blue)](https://www.linkedin.com/in/mauriciocast)
 [![Email](https://img.shields.io/badge/Email-ultralunar%40outlook.com-red)](mailto:ultralunar@outlook.com)
 
 <!---
