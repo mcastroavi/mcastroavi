@@ -21,7 +21,7 @@ Started from zero — taught myself the fundamentals and never stopped.
 - ✅ Data Acquisition, Modeling and Analysis — done
 - ✅ C++ — done
 - ✅ **M.S. Applied Artificial Intelligence** — Stevens Institute of
-  Technology, May 2025 🎓
+  Technology, May 2026 🎓
 
 ---
 
