@@ -72,7 +72,7 @@ made it to the other side.
 Just say hi — email or GitHub. Always happy to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Castro-blue)](https://linkedin.com/in/mcastroavi)
-[![Email](https://img.shields.io/badge/Email-mcastroa1%40stevens.edu-red)](mailto:mcastroa1@stevens.edu)
+[![Email](https://img.shields.io/badge/Email-mcastroa1%40stevens.edu-red)](mailto:ultralunar@outlook.com)
 
 <!---
 mcastroavi/mcastroavi is a ✨ special ✨ repository because its
