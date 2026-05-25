@@ -1,15 +1,80 @@
-- 👋 Hi, I’m @mcastroavi , Mauricio 
-- 👀 I’m interested in ramen, beach, programming, electronic warfare, taking care of family and friends. 
-- 🌱 I’m currently learning Applied Artificial Intelligence, and my fist steps Python programming and ML. Update: Machine Learning and Python classes done. Data Acquisition, Modeling and Analysis and C++ are next. 
-- 📫 How to reach me, email or just say hi.
-- 😄 Pronouns: He
-- ⚡ Fun fact: I taught myself how to swim when I was 8 years old by jumping into a random lake in my native hometown.
-      With zero experience about swimming and no adults around me, I decided to go from point a to point b through the water.
-      I was afraid but I moved my hands so fast and kicked the water many times to get the other corner of the lake. 
-      A valuable lesson about commitment. Just diving in and getting it done.  
-- DoD Secret Clearance
-- Air Force Reservist - Port Dawg  🫡 🪖
- <!---
-mcastroavi/mcastroavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+# Hey, I'm Mauricio Castro Aviles 👋 @mcastroavi
+
+> AI/ML Engineer | Air Force Reservist 🫡 | DoD Secret Clearance 🔒
+
+---
+
+## 👀 About Me
+
+I am passionate about **AI/ML, electronic warfare, programming**,
+and taking care of the people I love. When I am not training models
+you can find me at the beach or enjoying a good bowl of ramen. 🍜🏖️
+
+---
+
+## 🌱 My Learning Journey
+
+Started from zero — taught myself the fundamentals and never stopped.
+
+- ✅ Python Programming — done
+- ✅ Machine Learning — done
+- ✅ Data Acquisition, Modeling and Analysis — done
+- ✅ C++ — done
+- ✅ **M.S. Applied Artificial Intelligence** — Stevens Institute of
+  Technology, May 2025 🎓
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Seizure Prediction via ST-GNN
+Spatio-Temporal Graph Neural Network with soft-label supervision
+on CHB-MIT EEG — **0.883 AUC**, **17.4 min mean lead time**, 24 subjects
+
+[![GitHub](https://img.shields.io/badge/GitHub-seizure--prediction--stgnn-blue)](https://github.com/mcastroavi/seizure-prediction-stgnn)
+
+### ❤️ ECG Anomaly Detection
+6-model ablation study — Model 6 achieves **98.3% recall**, 7 false negatives
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
+![PyG](https://img.shields.io/badge/PyTorch--Geometric-orange)
+![C++](https://img.shields.io/badge/C++-blue)
+![CUDA](https://img.shields.io/badge/CUDA-11.8-green)
+
+---
+
+## 🎓 Credentials
+
+- 🎓 M.S. Applied Artificial Intelligence — Stevens Institute of Technology, 2025
+- 💼 Test Engineering Specialist — L3Harris Technologies
+- 🪖 Air Force Reservist — Port Dawg 🫡
+
+---
+
+## ⚡ Fun Fact
+
+When I was 8 years old I taught myself how to swim by jumping into
+a random lake in my hometown — zero experience, no adults around.
+I moved my hands as fast as I could and kicked the water until I
+made it to the other side.
+
+**A valuable lesson about commitment: just dive in and get it done.** 🏊
+
+---
+
+## 📫 Reach Me
+
+Just say hi — email or GitHub. Always happy to connect.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Castro-blue)](https://linkedin.com/in/mcastroavi)
+[![Email](https://img.shields.io/badge/Email-mcastroa1%40stevens.edu-red)](mailto:mcastroa1@stevens.edu)
+
+<!---
+mcastroavi/mcastroavi is a ✨ special ✨ repository because its
+README.md appears on your GitHub profile.
 --->
