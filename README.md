@@ -51,7 +51,7 @@ on CHB-MIT EEG — **0.883 AUC**, **17.4 min mean lead time**, 24 subjects
 ## ⚡ Fun Fact
 
 When I was 8 years old I taught myself how to swim by jumping into
-a random lake in my hometown — zero experience, no adults around.
+a random lake in my hometown, zero experience, no adults around.
 I moved my hands as fast as I could and kicked the water until I
 made it to the other side.
 
@@ -61,10 +61,10 @@ made it to the other side.
 
 ## 📫 Reach Me
 
-Just say hi — email or GitHub. Always happy to connect.
+Just say hi — always happy to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Castro-blue)](https://linkedin.com/in/mcastroavi)
-[![Email](https://img.shields.io/badge/Email-mcastroa1%40stevens.edu-red)](mailto:ultralunar@outlook.com)
+[![Email](https://img.shields.io/badge/Email-ultralunar%40outlook.com-red)](mailto:ultralunar@outlook.com)
 
 <!---
 mcastroavi/mcastroavi is a ✨ special ✨ repository because its
